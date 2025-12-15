@@ -1,3 +1,4 @@
+## Contrasting patterns in kelp consumption across latitude by two barren forming sea urchin species
 Data and code in support of the manuscript.
 
 Citation: Butler C., Wang Y., Verges A., Brown CJ., Ling S., Hurd CL., Bennett S.. Contrasting patterns in kelp consumption across latitude by two barren forming sea urchin species.
